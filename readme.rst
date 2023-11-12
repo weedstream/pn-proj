@@ -2,5 +2,5 @@
 Login Admin
 *********
 
--  `admin@admin.com`_
--  `password`_
+-  admin
+-  password
